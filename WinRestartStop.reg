@@ -1,3 +1,5 @@
+; stop/allow Windows from automatically restarting when users are logged on after updates
+; source: https://www.youtube.com/watch?v=VsoJnJZo1vc
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Update\AU]
